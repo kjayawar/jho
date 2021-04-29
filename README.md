@@ -1,4 +1,4 @@
-# jho
+# JHO
 Jungle Hawk Owl sizing and performance
 
 [![Build Status](https://acdl.mit.edu/csi/buildStatus/icon?job=gpkit_ResearchModel_jho_Push)](https://acdl.mit.edu/csi/job/gpkit_ResearchModel_jho_Push)
